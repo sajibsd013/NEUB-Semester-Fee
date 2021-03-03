@@ -28,19 +28,19 @@ document.getElementById("get").addEventListener('click', function(event){
             break;
         case "BBA":
             perCredit = 2150;
-            fixed= 3600;
+            fixed= 2600;
             break;
         case "English":
             perCredit = 1450;
-            fixed= 3600;
+            fixed= 2600;
             break;
         case "LLB":
             perCredit = 1500;
-            fixed= 3600;
+            fixed= 2600;
             break;
         case "BSS":
             perCredit = 1300;
-            fixed= 3600;
+            fixed= 2600;
             break;
         default:
             break;
